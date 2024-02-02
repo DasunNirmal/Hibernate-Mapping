@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hibarnate-Mapping.iml" filepath="$PROJECT_DIR$/Hibarnate-Mapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManytoMany.iml" filepath="$PROJECT_DIR$/ManytoMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnetoMany.iml" filepath="$PROJECT_DIR$/OnetoMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnetoOne.iml" filepath="$PROJECT_DIR$/OnetoOne.iml" />
+    </modules>
+  </component>
+</project>
