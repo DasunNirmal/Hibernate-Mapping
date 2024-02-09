@@ -8,8 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ManytoMany" />
+        <module name="HQL" />
         <module name="Fetching" />
         <module name="OnetoOne" />
+        <module name="SQL" />
         <module name="OnetoMany" />
       </profile>
     </annotationProcessing>
