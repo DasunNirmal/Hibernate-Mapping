@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/OnetoOne/pom.xml" />
         <option value="$PROJECT_DIR$/OnetoMany/pom.xml" />
         <option value="$PROJECT_DIR$/ManytoMany/pom.xml" />
+        <option value="$PROJECT_DIR$/Fetching/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
