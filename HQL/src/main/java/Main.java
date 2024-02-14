@@ -1,9 +1,11 @@
 import config.FactoryConfiguration;
+import entity.Laptop;
 import entity.Student;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.query.Query;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -16,10 +18,10 @@ public class Main {
 //        Query query = session.createQuery("from Student where id = ? 1");
 //        query.executeUpdate();
 
-//        Query query1 = session.createQuery("from Student where name = ? 1");
-//        query1.setParameter(1,"dd");
-//        Student student = (Student) query1.uniqueResult();
-//        System.out.println(student.getName());
+        Query query1 = session.createQuery("from Student where name = ? 1");
+        query1.setParameter(1,"Dasun");
+        Student student = (Student) query1.uniqueResult();
+        System.out.println(student.getName());
 
 //        List<Student> studentList = query.list();
 //
